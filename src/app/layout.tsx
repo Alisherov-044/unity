@@ -1,3 +1,5 @@
+import "@/styles/main.scss";
+
 import type { Metadata } from "next";
 import type { RootLayoutProps } from "./types";
 
